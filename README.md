@@ -1,1 +1,1 @@
-# AI-school
+# Artificially Intelligence
